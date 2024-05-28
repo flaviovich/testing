@@ -1,2 +1,3 @@
 testing personal access token
-testing credentinal helper
+testing credential helper
+testing credential helper store
