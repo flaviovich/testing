@@ -2,4 +2,4 @@ testing personal access token
 testing credential helper
 testing credential helper store
 testing ssh authentication
-
+testing pat authentication
