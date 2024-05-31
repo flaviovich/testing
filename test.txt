@@ -5,3 +5,4 @@ testing ssh authentication
 testing pat authentication
 testing 1
 testing push
+testing ssh push
